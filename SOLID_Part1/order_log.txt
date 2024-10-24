@@ -1,0 +1,64 @@
+Recipe One: Bread one, sausage one, mustard, pickles
+Recipe One: Bread one, sausage one, ketchup, chile
+
+Total price: 5.98
+
+-------------------
+Your Custom Recipe: white Bread, Sausage macedonian, mayonnaise, pickles
+
+Total price: 4.99
+
+-------------------
+Recipe One: Bread one, sausage one, mustard, pickles
+Recipe Two: Bread two, sausage two, ketchup, pickles
+Recipe Three: Bread three, sausage three, mustard, chile
+
+Total price: 9.423
+
+-------------------
+Recipe One: Bread one, sausage one, mustard, chile
+Recipe Two: Bread two, sausage two, ketchup, chile
+Recipe Three: Bread three, sausage three, mustard, pickles
+
+Total price: 9.42
+
+-------------------
+Recipe One: Bread one, sausage one, mustard, pickles
+
+Total price: 2.99
+
+-------------------
+Recipe One: Bread one, sausage one, mustard, chile
+Recipe Two: Bread two, sausage two, mayonnaise, pickles
+
+Total price: 6.48
+
+-------------------
+Recipe One: Bread one, sausage one, ketchup, chile
+
+Total price: 2.99
+
+-------------------
+Recipe Three: Bread three, sausage three, mayonnaise, sweet onions
+Your Custom Recipe: white Bread, Sausage white, mustard, chile
+
+Total price: 8.98
+
+-------------------
+Recipe One: Bread one, sausage one, mayo, pickles
+
+Total price: 2.99
+
+-------------------
+Recipe One: Bread one, sausage one, mayonnaise, chile
+Recipe Two: Bread two, sausage two, mustard, pickles
+Recipe Three: Bread three, sausage three, ketchup, jalapenos
+
+Total price: 9.42
+
+-------------------
+Your Custom Recipe: dark Bread, Sausage wurst, ketchup, sweet onions
+
+Total price: 4.99
+
+-------------------

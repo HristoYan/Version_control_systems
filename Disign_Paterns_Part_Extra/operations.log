@@ -1,0 +1,4 @@
+2024-10-15 17:13:21,970 - INFO - Input numbers: [1.0, 2.0, 3.0, 4.0, 12.0, 23.0, 34.0]
+2024-10-15 17:13:32,736 - INFO - Numbers saved to output.txt. Max: 34.0, Min: 1.0
+2024-10-15 17:13:32,737 - INFO - Displayed numbers: [1.0, 2.0, 3.0, 4.0, 12.0, 23.0, 34.0]
+2024-10-15 17:13:32,737 - INFO - Displayed max: 34.0, min: 1.0
